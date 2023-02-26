@@ -1,0 +1,3 @@
+#!/home/mortezaazad/open-source-mlops-e2e/mlops/bin/python3
+from numba.pycc import main
+main()
